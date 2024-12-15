@@ -2,7 +2,7 @@
 *NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 
-# Your Project Title Here
+# Project 2: Operationalizing Machine Learning
 
 *TODO:* Write an overview to your project.
 
@@ -55,7 +55,8 @@ Data Source Data: https://automlsamplenotebookdata.blob.core.windows.net/automl-
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-I will update later.
+
+https://youtu.be/aNBQJTELUYE
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
